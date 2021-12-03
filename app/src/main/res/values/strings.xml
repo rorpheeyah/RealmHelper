@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pet</string>
+    <string name="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown
+      printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.
+  </string>
+
+  <string name="my_story">My Story</string>
+  <string name="quick_info">Quick Info</string>
+  <string name="age">Age</string>
+  <string name="owner_info">Owner Info</string>
+  <string name="color">Color</string>
+  <string name="weight">Weight</string>
+  <string name="adopt_me">Adopt me</string>
+  <string name="no_story">No story</string>
+  <string name="distance_m">%sm away</string>
+  <string name="distance_km">%skm away</string>
+  <string name="year">%s yrs</string>
+  <string name="kg">%s kg</string>
+
+  <string name="just_now">Right now</string>
+  <string name="a_min_ago">1 minute ago</string>
+  <string name="mins_ago">" minutes ago"</string>
+  <string name="a_hour_ago">1 hour ago</string>
+  <string name="yesterday">Yesterday</string>
+  <string name="days_ago">" days ago"</string>
+  <string name="week_ago">" week ago"</string>
+  <string name="weeks_ago">" weeks ago"</string>
+</resources>
